@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif; margin: 0;
+}
+.acordeon_contenedor{
+    display: inline;
+    width: 800px;
+}
+.accordeon_contenido{
+    display: block;
+    margin: -3px 0 0 0;
+    background-color: white;
+    width: 608px;
+    padding: 5px;
+}
+.accordeon_click{ 
+    display: inline; 
+}
+.info{
+    width: 640px;
+    height: 196px;
+    margin-top: 5px;
+}

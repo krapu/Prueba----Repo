@@ -1,0 +1,20 @@
+.modal{
+    max-width: 780px;
+    padding: 0;
+    /* height: 515px; */
+    background-color: rgba(240,248,255,0);
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    webkit-box-shadow: 0 0 0 #000;
+    box-shadow: 0 0 0 #000;
+    margin-top: 40px;
+}
+
+.modal a.close-modal{
+    background: url(../images/cerrar_internas.png) no-repeat center;
+    background-size: 30px 30px;
+    top: -15px;
+    right: -15px;
+    width: 30px;
+    height: 30px;
+}

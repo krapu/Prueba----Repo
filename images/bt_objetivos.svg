@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 55 55" style="enable-background:new 0 0 55 55;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#_Trazado__1_);}
+	.st1{fill:url(#_Trazado_2_1_);}
+	.st2{fill:#E16970;}
+	.st3{fill:#EDEFF2;}
+	.st4{fill:#EBBF8D;}
+	.st5{fill:#765528;}
+	.st6{opacity:0.2;fill:#383834;enable-background:new    ;}
+	.st7{fill:#DBE0E6;}
+	.st8{fill:#886A44;}
+</style>
+<title>Mesa de trabajo 3</title>
+<g id="_Grupo_">
+	<g id="_Grupo_2">
+		<g id="_Grupo_3">
+			
+				<radialGradient id="_Trazado__1_" cx="18.45" cy="16181.5918" r="46.4833" gradientTransform="matrix(1 0 0 1 0 -16168)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.6" style="stop-color:#E3E9EE"/>
+				<stop  offset="1" style="stop-color:#A0A7AF"/>
+			</radialGradient>
+			<path id="_Trazado_" class="st0" d="M52.5,27.5c0,13.8-11.2,25-25,25s-25-11.2-25-25s11.2-25,25-25S52.5,13.7,52.5,27.5z"/>
+		</g>
+		<g id="_Grupo_4">
+			
+				<linearGradient id="_Trazado_2_1_" gradientUnits="userSpaceOnUse" x1="-485.7458" y1="-295.5214" x2="-439.4124" y2="-295.5214" gradientTransform="matrix(9.202299e-02 -0.9958 -0.9958 -9.202299e-02 -224.2023 -460.3138)">
+				<stop  offset="0" style="stop-color:#EDEFF2"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle id="_Trazado_2" class="st1" cx="27.5" cy="27.5" r="23.2"/>
+		</g>
+	</g>
+	<g id="Archery">
+		<g id="Target">
+			<g id="_Grupo_5">
+				<circle id="_Trazado_3" class="st2" cx="28" cy="28.8" r="15.6"/>
+				<circle id="_Trazado_4" class="st3" cx="28" cy="28.8" r="12.6"/>
+				<circle id="_Trazado_5" class="st2" cx="28" cy="28.8" r="9.3"/>
+				<circle id="_Trazado_6" class="st3" cx="28" cy="28.8" r="6.7"/>
+				<circle id="_Trazado_7" class="st2" cx="28" cy="28.8" r="3.3"/>
+			</g>
+		</g>
+		<g id="Casw_bow">
+			<g id="_Grupo_6">
+				<g id="_Grupo_7">
+					<path id="_Trazado_8" class="st4" d="M27.9,28.7c0.1,0.1,0.1,0.2,0,0.3c0,0,0,0,0,0l0,0c-0.1,0.1-0.2,0.1-0.3,0c0,0,0,0,0,0
+						l-17-18.1c-0.1-0.1-0.1-0.2,0-0.3c0,0,0,0,0,0l0,0c0.1-0.1,0.2-0.1,0.3,0L27.9,28.7z"/>
+					<polygon id="_Trazado_9" class="st5" points="10.7,11 9.7,10.8 11.5,12.7 12.4,12.7 10.8,11 					"/>
+					<path id="_Trazado_10" class="st6" d="M27.9,28.7l-16.8-18c-0.1-0.2-0.3-0.2-0.4-0.1l17.1,18.3L27.9,28.7z"/>
+					<polygon id="_Trazado_11" class="st5" points="11,10.6 10.9,9.7 12.6,11.6 12.6,12.5 11,10.8 					"/>
+				</g>
+			</g>
+		</g>
+		<g id="Bow">
+			<rect id="_Trazado_12" x="44.6" y="13.1" class="st7" width="0.4" height="28.7"/>
+			<path id="_Trazado_13" class="st8" d="M44.1,10.8c0.7,0.6,1.1,1.4,1.1,2.3c0,1-0.4,2.3-1.8,3.8c-3.7,3.8-7.6,8.1-5.9,13.1
+				s2.7,6.2,4,7.5c1.3,1.3,3.5,2,3.7,4.3c0.2,1.2-0.1,2.4-0.9,3.3c0,0,0.6-2.4-0.3-3.8c-0.9-1.4-4.6-4.7-6.1-7.3s-3-4.2-2.4-5.1
+				s0.7-1.3,0.6-1.8c-0.1-0.5-1.3-0.6,0.4-3.4s6.2-6.5,6.9-8.1C44,13.9,44.3,14.2,44.1,10.8z"/>
+		</g>
+	</g>
+</g>
+</svg>

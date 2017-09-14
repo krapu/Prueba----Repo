@@ -1,0 +1,23 @@
+{
+  "name": "ova3_framework",
+  "authors": [
+    "johanmorales <jhellmetal2000@gmail.com>"
+  ],
+  "description": "Framework para ovas",
+  "main": "OVA.html",
+  "keywords": [
+    "ova",
+    "esap",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,31 @@
+body{
+        overflow: hidden;
+ }
+.holder {
+    display: none; 
+}
+
+.customBtns{
+    position: absolute;
+    width: 860px;
+    height: 50px;
+    margin: 250px 0 0 0;
+}
+
+.pgs{
+    margin: 0 auto;
+    width: 940px;
+    height: 450px;
+    position: relative; 
+}
+.cajaResalt{
+    cursor: pointer;
+    margin: 0 0 10px 0;
+}
+.cls{
+    position: absolute;
+    right: -6px;
+    top: -11px;
+    cursor: pointer;
+}
+

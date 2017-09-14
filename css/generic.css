@@ -1,0 +1,212 @@
+/*Botones Genericos----------------------------------------------------*/
+.cerrar{
+    background: url(../images/cerrar_internas.png) no-repeat center;
+    background-size: 30px 30px;
+    width: 30px;
+    height: 30px;
+    border: 0px;
+}
+
+.volver{
+    cursor: pointer;
+    float: right;
+    margin: -2px 0 0 0;
+    position: absolute;
+    right: 40px;
+
+    background: url(../images/btnVolver.png) no-repeat center 100%;
+    width: 160px;
+    height: 40px;
+    border: 0px;
+    /*margin-left: 81%;
+    margin-top: -4px;*/
+}
+
+.telonCont {
+    background: url(../images/telon.png) no-repeat;
+    width: 875px;
+    height: 540px;
+    position: absolute;
+    z-index: 2;
+    top: 600px;
+    margin: 0 14px;
+}
+
+/*estilo boton tener en cuenta abre ventana*/
+.tenerCuenta{
+    background: url(../images/tenerCuenta.png) no-repeat center;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+}
+.tenerCuenta1{
+    background: url(../images/tenerCuenta1.png) no-repeat center;
+    background-size: 148px 47px;
+    width: 148px;
+    height: 47px;
+    border: 0px;
+}
+.tenerCuenta2{
+    background: url(../images/tenerCuenta2.png) no-repeat center;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+}
+
+.importante{
+    background: url(../images/importante.svg) no-repeat center;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+}
+
+.importante1{
+    background: url(../images/importante1.png) no-repeat center;
+    background-size: 148px 47px;
+    width: 148px;
+    height: 47px;
+    border: 0px;
+}
+
+.recuerdeque{
+    background: url(../images/recuerde.png) no-repeat center;
+    background-size: 45px 45px;
+    width: 45px;
+    height: 45px;
+    border: 0px;
+}
+
+.lecturas{
+    background: url(../images/leer.png) no-repeat center;
+    background-size: 170px 54px;
+    width: 170px;
+    height: 54px;
+    border: 0px;
+}
+.lecturas1{
+    background: url(../images/leer2.png) no-repeat center;
+    background-size: 45px 45px;
+    width: 45px;
+    height: 45px;
+    border: 0px;
+}
+
+.descargar{
+    background: url(../images/descargar.png) no-repeat center;
+    background-size: 169px 53px;
+    width: 169px;
+    height: 53px;
+    border: 0px;
+}
+
+.calculadora{
+    background: url(../images/btnCalculadora.png) no-repeat center;
+    background-size: 148px 47px;
+    width: 148px;
+    height: 47px;
+    border: 0px;
+}
+.calculadora1{
+    background: url(../images/btnCalculadora1.png) no-repeat center;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+}
+.btn_pdf{
+    background: url(../images/bt_pdf.svg) no-repeat center;
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    border: 0px;
+}
+/*-------------------------------------------------------------------*/
+
+/*ventanas emergentes-------------------------------------------*/
+.black{
+    width: 100%;
+    height: 100%;
+    /*background: rgba(0,0,0,0);*/
+    position: absolute;
+    z-index: 3;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
+    background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    
+}
+.cont{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+.backgroud_popup{
+    background: url(../images/back-popUp.jpg) center;
+}
+/*--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------*/
+/*ajustes por defecto jpages*/
+
+.flechaNaranjaDerecha{
+    background: url('../images/flecha_der1.png') no-repeat center!important;
+}
+
+.flechaNaranjaIzquierda{
+    background: url('../images/flecha_izq1.png') no-repeat center!important;
+}
+
+.arrowPrev, .arrowNext{
+    width: 56px;
+    height: 46px;
+    position: absolute;
+    top: 15px;
+    cursor: pointer;
+    /* border: 1px solid; */
+    /* border-radius: 100%; */
+    /* background-color: #c1272d!important; */
+    opacity: 1;
+}
+
+.arrowNext:hover {
+    /*border: 1px solid white;*/
+    opacity: 1;
+}
+
+.arrowPrev:hover {
+    /*border: 1px solid white;*/
+    opacity: 1;
+}
+
+.arrowPrev{
+    background: url('../images/arrowP.svg') no-repeat;
+    left: 0px;
+    z-index: 2;    
+    margin: -50px 0 0 -50px;
+}
+.arrowNext{
+    background: url(../images/arrowN.svg) no-repeat;
+    right: 0px;    
+    z-index: 2;
+    margin: -50px 30px 0 0;
+}
+
+.arrowPrev.jp-disabled, .arrowNext.jp-disabled{
+    display: none;
+}
+/*--------------------------------------------------------------*/
+.btn-gen-cont-img{
+    /*border: 1px solid black;*/
+    width: 229px;
+    height: 247px;
+    position: absolute;
+    cursor: pointer;
+    margin-top: -305px; 
+}

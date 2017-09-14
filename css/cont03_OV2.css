@@ -1,0 +1,160 @@
+body{
+        overflow: hidden;
+    }
+
+.holder {
+    display: none;
+}
+
+.customBtns{
+    position: absolute;
+    width: 860px;
+    height: 50px;
+    margin: 250px 0 0 0;
+}
+
+.pgs{
+    margin: 0 auto;
+    width: 940px;
+    height: 450px;
+    position: relative;
+}
+
+.contP1{
+    overflow: hidden;
+    width: 824px;
+    height: 340px;
+    position: absolute;
+    margin: 170px 0 0 50px;
+}
+
+.adv{
+    background: url(../img/adv.png) no-repeat;
+    width: 834px;
+    height: 364px;
+}
+
+.botonesP1{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin: 100px 0 0 60px;
+}
+
+.btnExtras1{
+    margin-top: -246px;
+    margin-left: 26px;
+    position: absolute;
+}
+
+.btnExtras2{
+    margin-top: -246px;
+    margin-left: 144px;
+    position: absolute;
+}
+
+.btnExtras3{
+    margin-top: -246px;
+    margin-left: 264px;
+    position: absolute;
+}
+.btnExtras4{
+    margin-top: -189px;
+    margin-left: 25px;
+    position: absolute;
+}
+.btnExtras5{
+    margin-top: -189px;
+    margin-left: 144px;
+    position: absolute;
+}
+.btnExtras6{
+    margin-top: -189px;
+    margin-left: 264px;
+    position: absolute;
+}
+.btnExtras7{
+    margin-top: -130px;
+    margin-left: 26px;
+    position: absolute;
+}
+
+.btnExtras8{
+    margin-top: -130px;
+    margin-left: 144px;
+    position: absolute;
+}
+
+.btnExtras9{
+    margin-top: -130px;
+    margin-left: 264px;
+    position: absolute;
+}
+.btnExtras10{
+    margin-top: -69px;
+    margin-left: 25px;
+    position: absolute;
+}
+.btnExtras11{
+    margin-top: -69px;
+    margin-left: 144px;
+    position: absolute;
+}
+.btnExtras12{
+    margin-top: -69px;
+    margin-left: 264px;
+    position: absolute;
+}
+.btnExtras13{
+    margin-top: -69px;
+    margin-left: 382px;
+    position: absolute;
+}
+.btnP1{
+   
+    margin: -54px 0 -6px -37px;
+    cursor: pointer;
+}
+
+.cont{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.cls{
+    position: absolute;
+    right: -6px;
+    top: -11px;
+    cursor: pointer;
+}
+.textTab1{
+    padding-bottom: 142px;
+    padding-left: 15px;
+}
+.btn_tab_col{
+    background-color: transparent;
+    /*border: 1px solid;*/
+    width: 110px;
+    height: 53px;
+}
+.cont_tab_pos{
+    margin-left: 25px;
+}
+
+.pos_tab_btn{
+    margin-top: 139px;
+}
+
+.pos_tab_cont{
+    margin-top: 185px;
+}
+.cont_tab_s{
+    width: 763px;
+    border: 1px solid;
+    margin-left: 10px;
+    margin-top: 0px;
+    background-color: white;
+}
